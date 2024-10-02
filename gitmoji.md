@@ -4,7 +4,7 @@
 
 1. [Définition](#Définition)
 2. [Exemples](#Exemples)
-3. [Outils&Intégration](#Outils et intégrations)
+3. [Outils&Intégration](#Outils&intégrations)
 
 ## Définition
 
@@ -39,7 +39,7 @@ Voici une liste des emojis les plus utilisés :
 - 🎨 : Amélioration de la structure/format du code
 - 🚀 : Amélioration des performances
 
-## Outils et intégrations
+## Outils&intégrations
 
 - Site web Gitmoji pour référence rapide
 - Extensions pour éditeurs de code (VS Code, etc.)
