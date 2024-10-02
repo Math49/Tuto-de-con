@@ -7,9 +7,18 @@
 4. [Organisation](#organisation)
 
 ## GitFlow
+[courte description d'intro au GitFlow]
+
+[En savoir plus]()
 
 ## GitMoji
+[courte description d'intro au GitMoji]
+
+[En savoir plus]()
 
 ## Readme Plan
+[courte description d'intro au Readme]
+
+[En savoir plus]()
 
 ## Organisation
