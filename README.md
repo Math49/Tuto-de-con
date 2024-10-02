@@ -1,7 +1,7 @@
 # Tuto-de-con
 
 ## Sommaire
-### [GitFlow](#my-gitflow)
+### [GitFlow](#gitflow)
 
 
 
@@ -47,7 +47,6 @@ f
 
 sd
 f
-<a name="my-gitflow"></a>
 
 ## GitFlow
 
