@@ -1,62 +1,15 @@
 # Tuto-de-con
 
 ## Sommaire
-### [GitFlow](#gitflow-1)
-
-
-
-
-dsf
-fd
-
-fds
-
-fds
-
-fd
-
-fds
-
-fds
-
-fs
-
-fds
-
-fs
-d
-fs
-f
-sd
-
-fs
-d
-f
-s
-f
-s
-df
-s
-df
-
-ds
-fds
-f
-sd
-f
-
-sd
-f
+1. [GitFlow](#gitflow-1)
+2. [GitMoji](#gitmoji)
+3. [Readme Plan](#readme-plan)
+4. [Organisation](#organisation)
 
 ## GitFlow
 
-fds
+## GitMoji
 
-fds
-f
+## Readme Plan
 
-fd
-
-dsf
-
-dsf
+## Organisation
