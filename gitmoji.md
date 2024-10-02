@@ -1,10 +1,10 @@
-[center]# Gitmoji[/center]
+# Gitmoji
 
 ## Sommaire
 
-1. Définition
-2. Exemples
-3. Outils & Intégration
+1. [Définition](#définition)
+2. [Exemples](#Exemples)
+3. [Outils-et-Intégration](#outils-et-intégrations)
 
 ## Définition
 
